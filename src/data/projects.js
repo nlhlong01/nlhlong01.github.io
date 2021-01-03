@@ -1,49 +1,47 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: '2D Random Forest Playground',
+    subtitle: "Master's Thesis",
+    link: 'https://nlhlong01.github.io/playground',
+    image: '/images/projects/randomforest2d.jpg',
+    date: '2020-08',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'A web-based playground for visualizing classification and regression result of Random Forest and Decision Tree with small (300-point, 2-dimensional) datasets. The app is built on the Tensorflow Playground. Its UI design is inspired by the Gradient Boosting Playground. It is deployed on my university’s domain and serve as an educative tool for professors in my department who want to quickly demonstrate these Machine Learning algorithms.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: '1D Random Forest Playground',
+    subtitle: "Master's Thesis",
+    link: 'https://nlhlong01.github.io/playground/rf1d.html',
+    image: '/images/projects/randomforest1d.jpg',
+    date: '2020-10',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'An application which is part of the above project except its input data has only 1 dimension, which makes regression concepts easier to understand.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Decision Tree Playground',
+    subtitle: "Master's Thesis",
+    link: 'https://nlhlong01.github.io/playground/dt.html',
+    image: '/images/projects/decisiontree.jpg',
+    date: '2020-12',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    'An application which is part of the above project. However, it visualizes the results of Decision Tree Classification/Regression and draw a beautiful tree.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Comparisons between V8 and SpiderMonkey’s JavaScript performance',
+    subtitle: "Master's Research Project",
+    link: 'https://drive.google.com/file/d/10GP5M7pS8DR3apNNJgFSb8cGJrN5ahW9',
+    image: '/images/projects/jsengineresearchproject.jpg',
+    date: '2019-07',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Provided fundamental knowledge on JavaScript including its history, the event loop, JIT compilation, an overview of the JavaScript engine, the architecture of V8, and simple performance benchmarks between two JS engines V8 and SpiderMonkey. I learned a lot about the JavaScript language by working on this project.',
+  },
+  {
+    title: 'CLI Facebook',
+    link: 'https://github.com/nlhlong01/cli-facebook',
+    date: '2020-03',
+    desc:
+      'A CLI app which imitates the functions of a social network such as user login, friends, groups',
   },
 ];
 

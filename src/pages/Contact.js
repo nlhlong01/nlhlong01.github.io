@@ -2,13 +2,12 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
-import EmailLink from '../components/Contact/EmailLink';
 import ContactIcons from '../components/Contact/ContactIcons';
 
 const Contact = () => (
   <Main
     title="Contact"
-    description="Contact Michael D'Angelo via email @ michael.l.dangelo@gmail.com"
+    description="Contact Long Nguyen via email @ nlhlong@protonmail.com"
   >
     <article className="post" id="contact">
       <header>
@@ -18,7 +17,7 @@ const Contact = () => (
       </header>
       <div className="email-at">
         <p>Feel free to get in touch. You can email me at: </p>
-        <EmailLink />
+        <a href="mailto:nlhlong@protonmail.com">nlhlong@protonmail.com</a>
       </div>
       <ContactIcons />
     </article>

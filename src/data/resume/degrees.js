@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Cologne Unversity of Applied Sciences',
+    degree: '📡 M.Sc. Communication Systems and Networks',
+    link: 'https://mcsn.de',
+    year: '2016 - 2021',
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Vietnamese-German Unversity & Frankfurt University of Applied Sciences',
+    degree: '⚡ B.Eng. Electrical Engineering and Information Technology',
+    link: 'https://vgu.edu.vn/study-programs/bachelor/eeit',
+    year: '2012 - 2016',
   },
 ];
 
