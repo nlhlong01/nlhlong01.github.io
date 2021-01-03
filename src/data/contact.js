@@ -1,7 +1,7 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
-import { faFreecodecamp } from '@fortawesome/free-brands-svg-icons/faFreeCodeCamp';
+import { faFreeCodeCamp } from '@fortawesome/free-brands-svg-icons/faFreeCodeCamp';
 import { faHackerrank } from '@fortawesome/free-brands-svg-icons/faHackerrank';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -20,7 +20,7 @@ const data = [
   {
     link: 'https://www.freecodecamp.org/nlhlong',
     label: 'freeCodeCamp',
-    icon: faFreecodecamp,
+    icon: faFreeCodeCamp,
   },
   {
     link: 'https://www.hackerrank.com/nlhlong',
