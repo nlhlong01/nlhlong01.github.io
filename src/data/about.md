@@ -5,7 +5,7 @@ I am a JavaScript lover, software craftsman, chess player, and photography enthu
 
 # Currently
 
-I am writing my thesis, while learning Redux and advanced React concepts like Hooks and looking for a job while preparing for my interviews.
+I am writing my thesis, while learning Redux and advanced React concepts and looking for a job.
 
 # Some history
 
@@ -29,7 +29,7 @@ I am writing my thesis, while learning Redux and advanced React concepts like Ho
 
 - [Chess](https://www.chess.com/stats/live/rapid/mcsn)
 - [Books](https://www.goodreads.com/user/show/40542298-long-nguyen)
-- Podcasts ([JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/), [Soft SKills Engineering](https://softskills.audio/), [TED Talks Daily](https://open.spotify.com/show/1VXcH8QHkjRcTCEd88U3ti?si=30AEScAKTbiUn2HJ8ykJgQ), [The Changelog](https://changelog.com/), [Shoptalk Show](https://shoptalkshow.com/))
+- Podcasts ([JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/), [Soft Skills Engineering](https://softskills.audio/), [TED Talks Daily](https://open.spotify.com/show/1VXcH8QHkjRcTCEd88U3ti?si=30AEScAKTbiUn2HJ8ykJgQ), [The Changelog](https://changelog.com/), [Shoptalk Show](https://shoptalkshow.com/))
 - [Photography](https://www.flickr.com/photos/153340976@N07/)
 
 # Fun facts
